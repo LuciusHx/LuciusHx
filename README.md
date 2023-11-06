@@ -9,5 +9,5 @@ Meu nome é Lucius Hebert
 
 - ### Para mais contatos:
 -
-- 📫 luciushebert13#gmail.com
+- 📫 luciushebert13@gmail.com
 - 📷 @luciush_
