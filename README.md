@@ -8,6 +8,5 @@ Meu nome é Lucius Hebert
 - Aqui se encontra alguns projetos que eu desenvolvi!!!
 
 - ### Para mais contatos:
--
 - 📫 luciushebert13@gmail.com
 - 📷 @luciush_
