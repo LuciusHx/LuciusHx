@@ -2,11 +2,11 @@
 
 Meu nome é Lucius Hebert
 
-- Sou estudante do Ensino Médio, cursando rede de Computadores.
+- Sou Técnico em Redes de Computadores apaixonado pelo mundo DEV.
 - Desenvolvo na linguagem Python.
 - Experiência em desenvolvimento WEB e Banco de Dados.
 - Aqui se encontra alguns projetos que eu desenvolvi!!!
 
 - ### Para mais contatos:
 - 📫 luciushebert13@gmail.com
-- 📷 @luciush_
+- linkedin.com/in/luciushebert/
