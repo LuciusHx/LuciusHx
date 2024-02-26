@@ -3,7 +3,7 @@
 Meu nome é Lucius Hebert
 
 - Sou Técnico em Redes de Computadores apaixonado pelo mundo DEV.
-- Desenvolvo na linguagem Python.
+- Desenvolvo na linguagem Python desde os 15 anos.
 - Experiência em desenvolvimento WEB e Banco de Dados.
 - Aqui se encontra alguns projetos que eu desenvolvi!!!
 
