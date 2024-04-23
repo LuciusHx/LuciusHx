@@ -17,3 +17,13 @@
     <img aling="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
+</br>
+
+- Sou Técnico em <strong>Redes de Computadores</strong>
+- Um entusiasta do vasto universo do desenvolvimento de software
+
+
+
+#### Para mais contatos:
+ * 📫 luciushebert13@gmail.com
+ * 📞 tioluci_ (discord)
